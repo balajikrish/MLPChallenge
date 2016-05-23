@@ -1,0 +1,6 @@
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge\bin\Debug\MLPChallenge.exe.config
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge\bin\Debug\MLPChallenge.exe
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge\bin\Debug\MLPChallenge.pdb
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge\obj\Debug\MLPChallenge.csprojResolveAssemblyReference.cache
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge\obj\Debug\MLPChallenge.exe
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge\obj\Debug\MLPChallenge.pdb

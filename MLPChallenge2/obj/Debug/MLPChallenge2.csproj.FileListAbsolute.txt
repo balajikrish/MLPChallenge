@@ -1,0 +1,8 @@
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\bin\Debug\MLPChallenge2.exe.config
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\bin\Debug\MLPChallenge2.exe
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\bin\Debug\MLPChallenge2.pdb
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\obj\Debug\MLPChallenge2.csprojResolveAssemblyReference.cache
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\obj\Debug\MLPChallenge2.exe
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\obj\Debug\MLPChallenge2.pdb
+C:\Users\BalajiK\Documents\Training\Data Structures\Exercises\MLPChallenge\MLPChallenge2\bin\Debug\test_data.csv
